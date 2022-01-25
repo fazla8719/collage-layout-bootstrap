@@ -1,0 +1,1 @@
+proty ta alada row te rakhle img ba content gula tader box er puro widht nibe....other wise ekta unwanted padding thakbe.
